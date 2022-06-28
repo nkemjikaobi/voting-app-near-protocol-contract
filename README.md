@@ -1,6 +1,8 @@
 voting-app-near-protocol
 ==================
 
+LIVE URL => https://voting-app-near-protocol-frontend.vercel.app/
+
 ## Smart contract for the Voting app
 
 - Contract can be found inside the ``` contract/assembly ``` path
