@@ -3,9 +3,21 @@ voting-app-near-protocol
 
 LIVE URL => https://voting-app-near-protocol-frontend.vercel.app/
 
+DEMO PRESENTATION => https://www.loom.com/share/2080505659ad49b2aa63c05901563740
+
 ## Smart contract for the Voting app
 
-- Contract can be found inside the ``` contract/assembly ``` path
+To run locally,
+
+In the root folder run
+
+``` npm install ``` or ``` yarn ```
+
+
+- Contract can be found inside the ``` contract/assembly ``` path. cd into that path and  run
+
+
+``` npm install ``` or ``` yarn ```
 
 To run tests,
 
